@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "gayathri",
+      "email": "gayathri12@gmail.com",
+      "password": "gayathri",
+      "confirmpassword": "gayathri"
+    },
+    {
+      "id": 2,
+      "name": "eshwar",
+      "email": "eshwar12@gmail.com",
+      "password": "eshwar",
+      "confirmpassword": "eshwar"
+    },
+    {
+      "name": "Kavitha",
+      "email": "Kavitha12@gmail.com",
+      "password": "Kavitha",
+      "confirmpassword": "Kavitha",
+      "id": 3
+    },
+    {
+      "name": "jenny",
+      "email": "jenny@gmail.com",
+      "password": "jenny",
+      "confirmpassword": "jenny",
+      "id": 4
+    }
+  ]
+}
